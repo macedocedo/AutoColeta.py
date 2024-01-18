@@ -15,3 +15,6 @@ Você também precisa instalar o Playwright usando o seguinte comando:
 > playwright install
 
 Este comando instalará o Playwright em um local global.
+
+
+#Referência https://www.youtube.com/watch?v=zazI9ntX6dw
