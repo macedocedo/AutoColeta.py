@@ -19,4 +19,4 @@ Este comando instalará o Playwright em um local global.
 
 #Referência: https://www.youtube.com/watch?v=zazI9ntX6dw
 
-#Biblioteca: https://playwright.dev/python/docs/intro
+#Documentação: https://playwright.dev/python/docs/intro
