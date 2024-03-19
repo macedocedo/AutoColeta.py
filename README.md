@@ -1,4 +1,4 @@
-#Projeto coleta de dados google. (Playwright)
+# Projeto coleta de dados google. (Playwright)
 
 O Playwright é uma ferramenta de automação de testes de ponta a ponta para web, Ele pode ser usado para automatizar uma ampla gama de tarefas, incluindo navegação na web, preenchimento de formulários, testes de API e muito mais.
 
@@ -18,4 +18,4 @@ Você também precisa instalar o Playwright usando o seguinte comando:
 
 Este comando instalará o Playwright em um local global.
 
-#Documentação: https://playwright.dev/python/docs/intro
+# Documentação: https://playwright.dev/python/docs/intro
